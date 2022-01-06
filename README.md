@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlorinDobinciuc
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Next.js and ThemeUI
+- 🌱 I’m currently learning Next.js, ThemeUI and Stoybook.js
 
 <!---
 FlorinDobinciuc/FlorinDobinciuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
