@@ -12,5 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FlorinDobinciuc&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorinDobinciuc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<a href="https://wakatime.com/@1c24646b-eb8a-4177-987b-f586ae3daa65"><img src="https://wakatime.com/badge/user/1c24646b-eb8a-4177-987b-f586ae3daa65.svg" alt="Total time coded since Jun 23 2021" /></a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=FlorinDobinciuc&icon=0&color=0)](https://visitcount.itsvg.in)
