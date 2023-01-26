@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Thinslices<br>🌱 I’m currently learning Node.js<br>💬 Ask me about Next.js, Javascript, Typescript
+🔭 I’m currently working on Thinslices<br>🌱 I’m currently learning ChatGPT<br>💬 Ask me about Next.js, Javascript, Typescript
 
 
 ## 🌐 Socials:
