@@ -15,7 +15,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=florindobinciuc&show_icons=true&theme=radical)
+![florindobinciuc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=florindobinciuc&theme=monokai&hide_border=false)
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florin-dobinciuc-959897311/)
